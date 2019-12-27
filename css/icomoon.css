@@ -840,6 +840,9 @@
 .icon-facebook:before {
   content: "\e05d";
 }
+.icon-instagram:before {
+  content: "\e05d";
+}
 .icon-twitter:before {
   content: "\e05e";
 }
@@ -2233,6 +2236,12 @@
   content: "\eaf9";
 }
 .icon-linkedin22:before {
+  content: "\eafa";
+}
+.icon-instagram2:before {
+  content: "\eaf9";
+}
+.icon-instagram22:before {
   content: "\eafa";
 }
 .icon-lastfm:before {
